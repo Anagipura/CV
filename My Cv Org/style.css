@@ -1,0 +1,85 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp7447367.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-size: 'Areal,sans-srif';
+}
+img {
+    padding: 15px;
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 3%; 
+}
+h4 {
+    padding: 0px 0px 0px 30px;
+    line-height: 20px;
+}
+h2 {
+    color: darkslategray;
+}
+.social-media-icons-black a {
+    color: #000;
+    text-decoration: none;
+    font-size: 50px;
+    transition: all .2s ease-in-out;
+    margin: 40px;
+    
+}
+.singleCol {
+    max-width: 750px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+.social-media-icons-black a:hover {
+    color: #976a10;
+    
+}
+.certificates {
+    margin-top: 20px;
+}
+  
+.certificates h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+  
+.certificates ul {
+    list-style-type: none;
+    margin: 0px 0px 50px 0px;
+    padding: 0;
+}
+  
+.certificates li {
+    display: inline-table;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+  
+.certificates li img {
+    width: 150px;
+    margin-right: 20px;
+}
+  
+.certificates li p {
+    font-size: 16px;
+    margin: 0;
+}
+
+h4 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
